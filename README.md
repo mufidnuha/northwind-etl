@@ -5,7 +5,7 @@ You can get the database from this link:
 https://docs.yugabyte.com/latest/sample-data/northwind/#explore-the-northwind-database
 
 ## Objective
-The purpose of this project is to retrieve sales data from a transactional database that will be used for company analysis needs. Therefore, in this case, a simple ETL is made from the transactional database into Bigquery as Data Warehouse. Data transformed into a single-table design for faster-retrieving data to analytics needs.
+The purpose of this project is to retrieve sales data from a transactional database that will be used for company analysis needs. Therefore, in this case, a simple ETL is made from the transactional database into Bigquery as Data Warehouse. Data transformed into a single-table for faster-retrieving data to analytics needs.
 
 ## The Entity Relationship Diagram (ERD) of Northwind Database
 <img src="./additional_file/northwind-er-diagram.png" width="700"/>
