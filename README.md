@@ -28,5 +28,5 @@ src: yugabyte.com
 2. Filter sales data last month by order date. For example, today is February 2022, then the retrieved data is January 2022 data.
 
 ## Results: Orders table in Bigquery
-
+<img src="./additional_file/northwind_bigquery.png" width="700"/>
 
